@@ -17,3 +17,6 @@ $(MAIN).pdf: $(MAIN).tex
 clean:
 	rm -f $(CLEAN_FILES)
 
+view:
+	$(VIEWER) $(MAIN).pdf
+
