@@ -19,3 +19,10 @@
 \contentsline {subsection}{\numberline {2.10}La Tabla periódica}{9}{}%
 \contentsline {subsection}{\numberline {2.11}Radio atómico}{10}{}%
 \contentsline {subsection}{\numberline {2.12}Radio iónico}{11}{}%
+\contentsline {section}{\numberline {3}UNIDAD 3}{13}{}%
+\contentsline {subsection}{\numberline {3.1}Postulados de la teoría de Lewis}{13}{}%
+\contentsline {subsection}{\numberline {3.2}Enlace iónico}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Enlace covalente}{14}{}%
+\contentsline {subsection}{\numberline {3.4}Electro-negatividad}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Teoría de repulsión de los pares electrónicos de la capa de valencia}{15}{}%
+\contentsline {section}{\numberline {4}Repulsión de pares de electrones}{16}{}%

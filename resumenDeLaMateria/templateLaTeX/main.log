@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.7)  27 DEC 2024 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.7)  28 DEC 2024 06:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,6 +23,8 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
+) (/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen141
@@ -122,8 +124,8 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen157
 \pgfmath@count=\count269
 \pgfmath@box=\box54
@@ -186,11 +188,11 @@ File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shadingcount=\count273
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box58
-)
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -548,32 +550,32 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use 
 \mhchem@option@minustextsidebearingright=\dimen310
 )
 
-LaTeX Warning: \include should only be used after \begin{document} on input line 23.
+LaTeX Warning: \include should only be used after \begin{document} on input line 24.
 
 (./newCommands.tex)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 25.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./main.aux (./caratula.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux))
+ (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux) (./unidad3.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count328
@@ -627,12 +629,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-Package chemgreek Info: Activating mapping `default' on line 25.
+Package chemgreek Info: Activating mapping `default' on line 26.
 
 \openout2 = `caratula.aux'.
 
@@ -1010,28 +1012,154 @@ File: ./imagenes/irregularidadesAfinidadElectronica.png Graphic file (type png)
 <use ./imagenes/irregularidadesAfinidadElectronica.png>
 Package pdftex.def Info: ./imagenes/irregularidadesAfinidadElectronica.png  used on input line 433.
 (pdftex.def)             Requested size: 170.71652pt x 97.99617pt.
-) [12 <./imagenes/variacionAfinidadElectronicaNumeroAtomico.png (PNG copy)> <./imagenes/irregularidadesAfinidadElectronica.png (PNG copy)>] (./main.aux (./caratula.aux)
+) [12 <./imagenes/variacionAfinidadElectronicaNumeroAtomico.png (PNG copy)> <./imagenes/irregularidadesAfinidadElectronica.png (PNG copy)>]
+\openout2 = `unidad3.aux'.
+
+ (./unidad3.tex
+<./imagenes/estructuraLewisElementosReprenYGasesNobles.png, id=125, 639.89063pt x 298.11375pt>
+File: ./imagenes/estructuraLewisElementosReprenYGasesNobles.png Graphic file (type png)
+<use ./imagenes/estructuraLewisElementosReprenYGasesNobles.png>
+Package pdftex.def Info: ./imagenes/estructuraLewisElementosReprenYGasesNobles.png  used on input line 36.
+(pdftex.def)             Requested size: 227.62204pt x 106.04718pt.
+<./imagenes/ejemploEnlaceIonico.png, id=126, 581.17125pt x 244.66406pt>
+File: ./imagenes/ejemploEnlaceIonico.png Graphic file (type png)
+<use ./imagenes/ejemploEnlaceIonico.png>
+Package pdftex.def Info: ./imagenes/ejemploEnlaceIonico.png  used on input line 40.
+(pdftex.def)             Requested size: 170.71652pt x 71.86914pt.
+<./imagenes/cicloBornHaberEnergiaReticular.png, id=127, 624.83438pt x 427.5975pt>
+File: ./imagenes/cicloBornHaberEnergiaReticular.png Graphic file (type png)
+<use ./imagenes/cicloBornHaberEnergiaReticular.png>
+Package pdftex.def Info: ./imagenes/cicloBornHaberEnergiaReticular.png  used on input line 72.
+(pdftex.def)             Requested size: 227.62204pt x 155.76839pt.
+<./imagenes/ejemplosEnergiaReticular.png, id=128, 624.83438pt x 408.02437pt>
+File: ./imagenes/ejemplosEnergiaReticular.png Graphic file (type png)
+<use ./imagenes/ejemplosEnergiaReticular.png>
+Package pdftex.def Info: ./imagenes/ejemplosEnergiaReticular.png  used on input line 73.
+(pdftex.def)             Requested size: 227.62204pt x 148.63815pt.
+ [13 <./imagenes/estructuraLewisElementosReprenYGasesNobles.png (PNG copy)> <./imagenes/ejemploEnlaceIonico.png (PNG copy)> <./imagenes/cicloBornHaberEnergiaReticular.png (PNG copy)> <./imagenes/ejemplosEnergiaReticular.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[]\OT1/ptm/m/n/10 Complete los oc-te-tos de elec-tro-nes pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+\OT1/ptm/m/n/10 ra to-dos los ele-men-tos, ex-cep-to pa-ra el
+ []
+
+<./imagenes/dibujoLewisCCl4.png, id=133, 459.21562pt x 127.22531pt>
+File: ./imagenes/dibujoLewisCCl4.png Graphic file (type png)
+<use ./imagenes/dibujoLewisCCl4.png>
+Package pdftex.def Info: ./imagenes/dibujoLewisCCl4.png  used on input line 111.
+(pdftex.def)             Requested size: 227.62204pt x 63.0631pt.
+
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 111--111
+ [] 
+ []
+
+<./imagenes/distorsionNubeElectronicaEntreAtomosDiferenteElectroNeg.png, id=134, 566.86781pt x 163.3603pt>
+File: ./imagenes/distorsionNubeElectronicaEntreAtomosDiferenteElectroNeg.png Graphic file (type png)
+<use ./imagenes/distorsionNubeElectronicaEntreAtomosDiferenteElectroNeg.png>
+Package pdftex.def Info: ./imagenes/distorsionNubeElectronicaEntreAtomosDiferenteElectroNeg.png  used on input line 123.
+(pdftex.def)             Requested size: 227.62204pt x 65.59471pt.
+<./imagenes/clasificacionEnlacesElectronegatividad.png, id=135, 264.99pt x 241.65282pt>
+File: ./imagenes/clasificacionEnlacesElectronegatividad.png Graphic file (type png)
+<use ./imagenes/clasificacionEnlacesElectronegatividad.png>
+Package pdftex.def Info: ./imagenes/clasificacionEnlacesElectronegatividad.png  used on input line 126.
+(pdftex.def)             Requested size: 113.81102pt x 103.787pt.
+[14 <./imagenes/dibujoLewisCCl4.png (PNG copy)> <./imagenes/distorsionNubeElectronicaEntreAtomosDiferenteElectroNeg.png (PNG copy)> <./imagenes/clasificacionEnlacesElectronegatividad.png (PNG copy)>]
+<./imagenes/evolucionElectronegatividad.png, id=139, 630.85687pt x 128.73094pt>
+File: ./imagenes/evolucionElectronegatividad.png Graphic file (type png)
+<use ./imagenes/evolucionElectronegatividad.png>
+Package pdftex.def Info: ./imagenes/evolucionElectronegatividad.png  used on input line 141.
+(pdftex.def)             Requested size: 227.62204pt x 46.44719pt.
+<./imagenes/electronegatividadesEnLaTablaPeriodica.png, id=140, 628.59843pt x 271.76532pt>
+File: ./imagenes/electronegatividadesEnLaTablaPeriodica.png Graphic file (type png)
+<use ./imagenes/electronegatividadesEnLaTablaPeriodica.png>
+Package pdftex.def Info: ./imagenes/electronegatividadesEnLaTablaPeriodica.png  used on input line 143.
+(pdftex.def)             Requested size: 227.62204pt x 98.40768pt.
+<./imagenes/longitudEnlCovalenteH2yHI.png, id=141, 387.69844pt x 268.75406pt>
+File: ./imagenes/longitudEnlCovalenteH2yHI.png Graphic file (type png)
+<use ./imagenes/longitudEnlCovalenteH2yHI.png>
+Package pdftex.def Info: ./imagenes/longitudEnlCovalenteH2yHI.png  used on input line 146.
+(pdftex.def)             Requested size: 113.81102pt x 78.89217pt.
+<./imagenes/comparacionDeLongitudesDeEnlace.png, id=142, 180.675pt x 328.22626pt>
+File: ./imagenes/comparacionDeLongitudesDeEnlace.png Graphic file (type png)
+<use ./imagenes/comparacionDeLongitudesDeEnlace.png>
+Package pdftex.def Info: ./imagenes/comparacionDeLongitudesDeEnlace.png  used on input line 146.
+(pdftex.def)             Requested size: 85.35826pt x 155.06769pt.
+<./imagenes/diagramaLewisO2.png, id=143, 91.09032pt x 47.42719pt>
+File: ./imagenes/diagramaLewisO2.png Graphic file (type png)
+<use ./imagenes/diagramaLewisO2.png>
+Package pdftex.def Info: ./imagenes/diagramaLewisO2.png  used on input line 172.
+(pdftex.def)             Requested size: 28.45274pt x 14.8137pt.
+<./imagenes/diagramaLewisH2.png, id=144, 97.11281pt x 26.34843pt>
+File: ./imagenes/diagramaLewisH2.png Graphic file (type png)
+<use ./imagenes/diagramaLewisH2.png>
+Package pdftex.def Info: ./imagenes/diagramaLewisH2.png  used on input line 174.
+(pdftex.def)             Requested size: 28.45274pt x 7.71964pt.
+<./imagenes/estructuraResonanteNO3-.png, id=145, 617.30624pt x 127.97812pt>
+File: ./imagenes/estructuraResonanteNO3-.png Graphic file (type png)
+<use ./imagenes/estructuraResonanteNO3-.png>
+Package pdftex.def Info: ./imagenes/estructuraResonanteNO3-.png  used on input line 197.
+(pdftex.def)             Requested size: 227.62204pt x 47.18907pt.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 207--207
+|[]$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+<./imagenes/geometriaElectronica1.png, id=146, 623.32875pt x 278.54062pt>
+File: ./imagenes/geometriaElectronica1.png Graphic file (type png)
+<use ./imagenes/geometriaElectronica1.png>
+Package pdftex.def Info: ./imagenes/geometriaElectronica1.png  used on input line 211.
+(pdftex.def)             Requested size: 199.16928pt x 88.99881pt.
+<./imagenes/geometriaElectronica2.png, id=147, 592.46344pt x 475.7775pt>
+File: ./imagenes/geometriaElectronica2.png Graphic file (type png)
+<use ./imagenes/geometriaElectronica2.png>
+Package pdftex.def Info: ./imagenes/geometriaElectronica2.png  used on input line 212.
+(pdftex.def)             Requested size: 199.16928pt x 159.94pt.
+[15 <./imagenes/evolucionElectronegatividad.png (PNG copy)> <./imagenes/electronegatividadesEnLaTablaPeriodica.png (PNG copy)> <./imagenes/longitudEnlCovalenteH2yHI.png (PNG copy)> <./imagenes/comparacionDeLongitudesDeEnlace.png (PNG copy)> <./imagenes/diagramaLewisO2.png (PNG copy)> <./imagenes/diagramaLewisH2.png (PNG copy)> <./imagenes/estructuraResonanteNO3-.png (PNG copy)> <./imagenes/geometriaElectronica1.png (PNG copy)> <./imagenes/geometriaElectronica2.png (PNG copy)>]
+<./imagenes/geometriaElectronica3.png, id=152, 621.07031pt x 467.49657pt>
+File: ./imagenes/geometriaElectronica3.png Graphic file (type png)
+<use ./imagenes/geometriaElectronica3.png>
+Package pdftex.def Info: ./imagenes/geometriaElectronica3.png  used on input line 216.
+(pdftex.def)             Requested size: 199.16928pt x 149.91582pt.
+<./imagenes/geometriaElectronica4.png, id=153, 625.58719pt x 477.28313pt>
+File: ./imagenes/geometriaElectronica4.png Graphic file (type png)
+<use ./imagenes/geometriaElectronica4.png>
+Package pdftex.def Info: ./imagenes/geometriaElectronica4.png  used on input line 217.
+(pdftex.def)             Requested size: 199.16928pt x 151.95445pt.
+<./imagenes/ejemplosRepulsionParesElectrones.png, id=154, 593.21625pt x 443.40656pt>
+File: ./imagenes/ejemplosRepulsionParesElectrones.png Graphic file (type png)
+<use ./imagenes/ejemplosRepulsionParesElectrones.png>
+Package pdftex.def Info: ./imagenes/ejemplosRepulsionParesElectrones.png  used on input line 220.
+(pdftex.def)             Requested size: 199.16928pt x 148.86856pt.
+) [16 <./imagenes/geometriaElectronica3.png (PNG copy)> <./imagenes/geometriaElectronica4.png (PNG copy)> <./imagenes/ejemplosRepulsionParesElectrones.png (PNG copy)>] (./main.aux (./caratula.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux))
+ (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux) (./unidad3.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19097 strings out of 476014
- 382111 string characters out of 5792005
+ 19310 strings out of 476014
+ 390267 string characters out of 5792005
  1957187 words of memory out of 5000000
- 40857 multiletter control sequences out of 15000+600000
+ 41060 multiletter control sequences out of 15000+600000
  580124 words of font info for 82 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 102i,16n,107p,437b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 3797004 bytes).
+ 102i,16n,107p,491b,726s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (20 pages, 5366815 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 222 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 368 words of extra memory for PDF output out of 10000 (max. 10000000)
 
