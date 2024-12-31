@@ -1,15 +1,31 @@
 \renewcommand{\theenumi}{\Roman{enumi}}
+
 \newcommand{\longsection}[2]{%
     \section[#1]{\parbox{\columnwidth}{#1}}
 }
-\newcommand{\saltoPag}{%
+
+\newcommand{\saltoPag}[0]{%
     \newpage\noindent\thispagestyle{fancy}%
     \begin{tikzpicture}[remember picture, overlay]
         \draw[line width=0.4pt] (8.5cm, -0.5cm) -- (8.5cm, -26cm);
     \end{tikzpicture}%
-    \ignorespaces
+    \ignorespaces{}
 }
-\newcommand{\sangria}{\hspace{15pt}{\text{}}}
+
+\newcommand{\midTitle}[2]{%
+    \begin{center}
+        \textcolor{#1}{\underline{#2}} 
+    \end{center}
+}
+
+\newcommand{\imagen}[2]{
+    \begin{center}
+        \includegraphics[width=#1]{#2}
+    \end{center}
+}
+
+\newcommand{\sangria}[0]{\hspace{15pt}{\text{}}}
+
 \newcommand{\longsubsection}[2]{%
     \subsection[#1]{\parbox{\columnwidth}{#1}}%
 }
