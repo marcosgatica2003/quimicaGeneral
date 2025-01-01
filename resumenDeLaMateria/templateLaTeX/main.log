@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.7)  31 DEC 2024 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.7)  1 JAN 2025 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1618,33 +1618,51 @@ Package pdftex.def Info: ./imagenes/tiposSemiconductores1.png  used on input lin
 \openout2 = `unidad5.aux'.
 
  (./unidad5.tex
-File: ./imagenes/anionesYCationesDeElementosRepresentativos.png Graphic file (type png)
-<use ./imagenes/anionesYCationesDeElementosRepresentativos.png>
-Package pdftex.def Info: ./imagenes/anionesYCationesDeElementosRepresentativos.png  used on input line 2.
-(pdftex.def)             Requested size: 199.16928pt x 124.01321pt.
-) [30] (./main.aux (./caratula.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\OT1/ptm/b/n/10 Termoqu[]^^Pmi-ca: \OT1/ptm/m/n/10 es-tu-dia los cam-bios de
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 17.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<./imagenes/tiposDeSistemas.png, id=285, 255.20343pt x 167.12437pt>
+File: ./imagenes/tiposDeSistemas.png Graphic file (type png)
+<use ./imagenes/tiposDeSistemas.png>
+Package pdftex.def Info: ./imagenes/tiposDeSistemas.png  used on input line 21.
+(pdftex.def)             Requested size: 199.16928pt x 130.43552pt.
+<./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png, id=286, 523.20468pt x 216.05719pt>
+File: ./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png Graphic file (type png)
+<use ./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png>
+Package pdftex.def Info: ./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png  used on input line 30.
+(pdftex.def)             Requested size: 199.16928pt x 82.24434pt.
+<./imagenes/deltaVolumenTrabajoGas.png, id=287, 475.7775pt x 201.75375pt>
+File: ./imagenes/deltaVolumenTrabajoGas.png Graphic file (type png)
+<use ./imagenes/deltaVolumenTrabajoGas.png>
+Package pdftex.def Info: ./imagenes/deltaVolumenTrabajoGas.png  used on input line 41.
+(pdftex.def)             Requested size: 199.16928pt x 84.45892pt.
+) [30 <./imagenes/tiposDeSistemas.png (PNG copy)> <./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png (PNG copy)> <./imagenes/deltaVolumenTrabajoGas.png (PNG copy)>] (./main.aux (./caratula.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux)
-(./unidad3.aux) (./unidad4.aux) (./unidad5.aux))
+ (./configContenido.aux) (./indice.aux) (./unidad1.aux) (./unidad2.aux) (./unidad3.aux) (./unidad4.aux) (./unidad5.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 23838 strings out of 476014
- 535094 string characters out of 5792005
+ 23890 strings out of 476014
+ 536630 string characters out of 5792005
  1957187 words of memory out of 5000000
- 45547 multiletter control sequences out of 15000+600000
- 582831 words of font info for 85 fonts, out of 8000000 for 9000
+ 45595 multiletter control sequences out of 15000+600000
+ 583145 words of font info for 86 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  102i,16n,107p,491b,1141s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (35 pages, 13673868 bytes).
+Output written on main.pdf (35 pages, 13825530 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
+ 368 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 713 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 728 words of extra memory for PDF output out of 10000 (max. 10000000)
 
