@@ -1,5 +1,11 @@
 \renewcommand{\theenumi}{\Roman{enumi}}
 
+\newcommand{\ecuacion}[1]{
+    \begin{center}
+        $#1$
+    \end{center}
+}
+
 \newcommand{\longsection}[2]{%
     \section[#1]{\parbox{\columnwidth}{#1}}
 }
@@ -24,7 +30,7 @@
     \end{center}
 }
 
-\newcommand{\sangria}[0]{\hspace{15pt}{\text{}}}
+\newcommand{\sangria}[0]{\indent\hspace{15pt}{\text{}}}
 
 \newcommand{\longsubsection}[2]{%
     \subsection[#1]{\parbox{\columnwidth}{#1}}%

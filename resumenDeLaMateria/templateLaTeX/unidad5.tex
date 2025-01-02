@@ -28,43 +28,250 @@
         \sangria{} La mezcla de reacción es un sistema y el resto del universo, los alrededores. El calor generado por el sistema lo toma los alrededores. El proceso es \textbf{Exotérmico}.
         \sangria{} La descomposición de óxido de Mercurio, es un proceso endotérmico.
         \imagen{7cm}{./imagenes/combustionHidrogenoOxigenoYDescomposicionOxidoMercurio.png}
-        \begin{itemize}
-            \item \textbf{Trabajo:} cambio de energía producido por un proceso.
+    \subsection{Termodinámica}
+        \sangria{} La termodinámica es el estudio de la conversión del calor y otras formas de energía. Examina los cambios en el \textbf{estado de un sistema}.
+        \subsubsection{Primera ley de la termodinámica}
+            \sangria{} La energía se puede convertir de una forma a otra, pero no se puede crear ni destruir, solo se conserva. Cualquier energía que un sistema pierda deberá ser ganada por el entorno y viceversa. \\
+            \textbf{Energía interna:} es la suma de la energía cinética (movimiento molecular y de los electrones) y potencial (fuerzas de atracción entre electrones y núcleos, fuerzas de repulsión entre electrones y entre núcleos de moléculas e interacciones entre moléculas).
+            La energía no se mide de forma absoluta, se miden los cambios de energía.
+            \ecuacion{S_{(s)} + O_{2(g)} \rightarrow SO_{2(g)} \text{Reacción exotérmica}}
+            \ecuacion{\Delta E = E_{(productos)} - E_{(reactivos)}}
+            \ecuacion{\Delta E_{(sis)} + \Delta E_{(alr)} = 0}
+            \midTitle{blue}{Cambio de energía de un sistema}
+            \ecuacion{\Delta E = q + W}
+            \sangria{} El cambio de $E$ interna de un sistema lo podemos expresar como la suma del intercambio de calor ($q$) y el trabajo ($w$) realizado por o sobre el sistema.
+            \imagen{6cm}{./imagenes/sistema.png}
             \begin{itemize}
-                \item Signo del Trabajo:
-                    \begin{itemize}
-                        \item Compresión ($\Delta V < 0$), signo ($-$) $\Rightarrow W (+)$
-                        \item Expansión ($\Delta V > 0$), signo ($+$) $\Rightarrow W(-)$
-                    \end{itemize}
+                \item \textbf{Trabajo:} cambio de energía producido por un proceso.
+                \begin{itemize}
+                    \item Signo del Trabajo:
+                        \begin{itemize}
+                            \item Compresión ($\Delta V < 0$), signo ($-$) $\Rightarrow W (+)$
+                            \item Expansión ($\Delta V > 0$), signo ($+$) $\Rightarrow W(-)$
+                        \end{itemize}
+                \end{itemize}
             \end{itemize}
+            \imagen{7cm}{./imagenes/deltaVolumenTrabajoGas.png}
+            \saltoPag{}
+            \midTitle{blue}{Calor a volumen constante ($q_v$)}
+            \begin{center} $\Delta E = q + W$ \\[5pt] \end{center}
+            Siendo:
+            \begin{center} $W = - P \Delta V$ \\[5pt] $W = 0$ \end{center}
+            Entonces:
+            \begin{center}
+                \begin{tabular}{| c |}
+                    \hline 
+                    $\Delta E = q_V$ \\ 
+                    \hline 
+                \end{tabular} 
+            \end{center}
+            \midTitle{blue}{Calor a presión constante ($q_P$): Entalpia}
+            \begin{center} $\Delta E = q + W$ \end{center}
+            Siendo:
+            \begin{center}
+                $q_P = \Delta H$ \\[5pt]
+                $W = -P \Delta V$
+            \end{center}
+            Entonces:
+            \begin{center}
+                $\Delta E = \Delta H - P \Delta V$ \\[5pt]
+                \begin{tabular}{| c |}
+                    \hline
+                    $\Delta H = \Delta E + P \Delta V $ \\
+                    \hline
+                \end{tabular}
+            \end{center}
+            Para sistemas gaseosos:
+            \begin{center} \begin{tabular}{| c |} \hline $\Delta H = \Delta E + R \cdot T \cdot \Delta n$ \\ \hline \end{tabular} \end{center}
+            \midTitle{blue}{Entalpia ($H$) = $q_P$}
+            \sangria{} Es la cantidad de calor medido en condiciones de presión estándar.
+            \ecuacion{\Delta H = H_{(productos)} - H_{(reactivos)}}
+            Siendo:
+            \begin{itemize} 
+                \item $\Delta H$: calor liberado o absorbido a presión constante. 
+            \end{itemize}
+            \imagen{7cm}{./imagenes/entalpiaEjemplo.png}
+        
+    \subsection{Ecuaciones termoquímicas}
+        \sangria{} Cada mol de hielo que se funde a $0^oC$ y $1atm$ absorbe $6,01kJ$
+        \ecuacion{H_2O_{(s)} \rightarrow H_2O_{(l)} \hspace{15pt} \Delta H = 6,01 kJ / mol}
+        \begin{center} El sistema absorbe calor, es endotérmico $\Delta H > 0$ \end{center}
+        \sangria{} Para cada mol de metano que se quema a $25^oC$ y $1atm$ se liberan $-890,4 kJ$.
+        \ecuacion{CH_{4(g)} + 2O_{2(g)} \rightarrow CO_{2(g)} + 2H_2O_{(l)} \hspace{15pt} \Delta H = -890,4 kJ / mol}
+        \begin{center} El sistema emite calor, es exotérmico $\Delta H < 0$ \end{center}
+        \begin{itemize}
+            \item Los coeficientes estequiométricos siempre se refieren al número de moles de una sustancia.
+                \begin{center} $H_2O_{(s)} \rightarrow H_2O_{(l)} \hspace{15pt} \Delta H = 6,01 kJ$ \end{center}
+            \item Si se invierte una reacción, el signo de $\Delta H$ también se invierte.
+                \ecuacion{H_2O_{(l)} \rightarrow{} H_2O_{(s)} \hspace{15pt} \Delta H = -6,01 kJ}
+            \item Si se multiplican ambos lados de la ecuación por un factor, entonces $\Delta H$ debe multiplicarse por el mismo factor.
+                \ecuacion{2H_2O_{(s)} \rightarrow 2H_2O_{(l)} \hspace{15pt} \Delta H = 2 \times 6,01 \approx 12 kJ}
         \end{itemize}
-        \imagen{7cm}{./imagenes/deltaVolumenTrabajoGas.png}
-        \midTitle{blue}{Calor a volumen constante ($q_v$)}
-        \begin{center} $\Delta E = q + W$ \\[5pt] \end{center}
-        Siendo:
-        \begin{center} $W = - P \Delta V$ \\[5pt] $W = 0$ \end{center}
-        Entonces:
+        \begin{itemize}
+            \item Los estados físicos de todos los reactivos y productos deben ser especificados en las ecuaciones termoquímicas.
+                \ecuacion{H_2O_{\textcolor{red}{\textbf{(s)}}} \rightarrow H_2O_{\textcolor{red}{\textbf{(l)}}} \hspace{15pt} \Delta H = 6,01 kj/mol}
+                \ecuacion{H_2O_{\textcolor{red}{\textbf{(l)}}} \rightarrow H_2O_{\textcolor{red}{\textbf{(g)}}} \hspace{15pt} \Delta H = 44,0 kj/mol}
+        \end{itemize}
+        \textbf{Conceptos:} \\
+        \sangria{} El \textbf{calor específico (s)} de una sustancia es la cantidad de calor (q) requerido para elevar la temperatura de un gramo de sustancia en un grado Celsius. \\
+        \sangria{} La \textbf{capacidad calorífica (C)} de una sustancia es la cantidad de calor (q) requerido para elevar la temperatura de una masa dada (m) de sustancia en un grado Celsius.
+        \imagen{7cm}{./imagenes/capacidadCalorifica.png}
+    \subsection{Entalpia estándar de formación}
+    \sangria{} \textbf{Entalpia estándar de formación ($\Delta {H^o}_{f}$):} es el cambio de entalpía de la reacción que forma $1$ mol de compuesto a partir de sus elementos en condiciones de presión de $1atm$ y $25^o C$. \\
+    \sangria{} \textbf{La entalpía estándar de formación de cualquier elemento en su forma más estable es $0$}.
+        \ecuacion{ \Delta {H^o}_{f} (O_2) = 0 \hspace{15pt} \Delta {H^o}_{f} (C,grafito) = 0 }
+        \ecuacion{ \Delta {H^o}_{f} (O_3) = 142 kJ/mol \hspace{15pt} \Delta {H^o}_{f}(C, diamante) = 1,90 kJ/mol }
+    \sangria{} \textbf{Entalpia de combustión ($\Delta {H^o}_{c}$):} es el cambio de entalpía por mol de una sustancia que se quema en una reacción de combustión en condiciones estándar. \\
+    Los productos de combustión de un compuesto orgánico son $CO_{2(g)}$ y $H_2O$, cualquier nitrógeno presente se libera como $N_2$ a menos que se especifiquen otros productos, \textcolor{red}{siempre es exotérmico}.
+    \saltoPag{}
+    \imagen{8cm}{./imagenes/tablaDeEntalpiaEstandar.png}
+    \subsection{Entalpia estándar de reacción}
+        \textcolor{blue}{\textbf{Entalpía estándar de reacción ($\Delta {H^o}$):}} se define como la cantidad de calor a presión constante de $1atm$ que el sistema puede absorber o liberar.
+        \imagen{7cm}{./imagenes/entalpiaEstandarReaccion.png}
+        \ecuacion{aA + bB + \dotsb \rightarrow cC + dD + \dotsb}
+        \subsubsection{Método directo}
+            \ecuacion{\Delta {H^o}_{r} = \sum n \Delta {H^o}_{prod} - \sum m \Delta {H^o}_{reac}}
+            \ecuacion{\Delta {H^o}_{r} = [c\Delta H^o(C) + d\Delta H^o] - [a\Delta H^o(A) + b\Delta H^o(B)]}
+            \sangria{} Para hacer el balance energético se considera que las reacciones tienen lugar hasta el consumo total de los reactivos. \\
+            \textbf{\underline{Ejemplo:}} el benceno ($C_6H_6$) se quema en presencia de aire para producir el dióxido de carbono y el agua líquida ¿Cuánto calor se libera por cada mol de benceno quemado? La entalpía estándar de formación del benceno es $49,04 kJ / mol$.
+            \imagen{7cm}{./imagenes/ejemploMetodoDirectoEntalpiaEstandarReaccion.png}
+    \subsubsection{Método indirecto - Ley de Hess}
+        \sangria{} La energía intercambiada en forma de calor en una reacción química es la misma tanto si la reacción ocurre en una etapa como si ocurre en varias.
+        \ecuacion{C_{\text{(Grafito)}} + \frac{1}{2} O_{2 \text{(g)}} \rightarrow CO_{(g)}} 
         \begin{center}
-            \begin{tabular}{| c |}
-                \hline 
-                $\Delta E = q_V$ \\ 
-                \hline 
-            \end{tabular} 
+            $C_{(Grafito)} + \cancel{O_{2(g)}}$ \hspace{25pt} $\textcolor{red}{\Delta {H^o}_{r} = - 393,5 kJ}$\\[5pt]
+            $\cancel{CO_{2(g)}} \rightarrow CO_{(g)} + \frac{1}{2} \cancel{O_{2(g)}}$ \hspace{25pt} \textcolor{red}{$\Delta {H^o}_{r} = + 283 kJ$}\\[5pt]
+            \rule{8cm}{0.05mm} \\[5pt]
+            $C_{(Grafito)} + \frac{1}{2} O_{2(g)} \rightarrow CO_{(g)}$ \hspace{20pt} \textcolor{red}{$\Delta {H^o}_{r} = -110,5 kJ$}
         \end{center}
-        \midTitle{blue}{Calor a presión constante ($q_P$): Entalpia}
-        \begin{center} $\Delta E = q + W$ \end{center}
-        Siendo:
-        \begin{center}
-            $q_P = \Delta H$ \\[5pt]
-            $W = -P \Delta V$
+    \subsection{Función de estado}
+        \begin{itemize}
+            \item Tienen un valor único para cada estado del sistema.
+            \item Su variación solo depende del estado final e inicial, no del camino desarrollado.
+        \end{itemize}
+        \textbf{\underline{SON:}} Presión, temperatura, volumen, energía interna, entalpía $\dotsb$ \\
+        \textbf{\underline{NO SON:}} calor, trabajo $\dotsb$ \\[5pt]
+        \textbf{\underline{Ejemplo:}} calcular la entalpía estándar de formación de $CS_{2(l)}$ a partir de las siguientes reacciones:
+        \begin{center} 
+            \textcolor{blue}{ $C_{(grafita)} + O_{2(g)} \rightarrow CO_{2(g)} \hspace{15pt} \Delta {H^o}_{rxn} = -393,5 kJ$ } \\[5pt]
+            \textcolor{blue}{ $S_{\text{(\textit{rómbico})}} + O_{2(g)} \rightarrow SO_{2(g)} \hspace{15pt} \Delta {H^o}_{rxn} = -296,1 kJ $ } \\[5pt]
+            \textcolor{blue}{ $CS_{2(l)} + 3O_{2(g)} \rightarrow CO_{2(g)} + 2SO_{2(g)} \hspace{10pt} \Delta {H^o}_{rxn} = -1072kJ$ }
         \end{center}
-        Entonces:
-        \begin{center}
-            $\Delta E = \Delta H - P \Delta V$ \\[5pt]
-            \begin{tabular}{| c |}
+        \begin{enumerate}
+            \item Escribir la reacción de formación para $CS_2$:
+                \ecuacion{C_{(grafito)} + 2S_{(\text{\textit{rómbico}})} \rightarrow CS_{2(l)}}
+
+            \item Sumar las tres ecuaciones algebraicamente.
+            \begin{minipage}{8cm}
+                \begin{center}
+                \begin{enumerate}
+                    \item $C_{(grafita)} + \cancel{O_{2(g)}} \rightarrow \cancel{CO_{2(g)}} $ \\[5pt]
+                    \item $2S_{\text{(\textit{rómbico})}} + \cancel{2O_{2(g)}} \rightarrow \cancel{2SO_{2(g)}}$ \\[5pt]
+                    \item $\cancel{CS_{2(l)}} + \cancel{3O_{2(g)}} \rightarrow CO_{2(g)} + \cancel{2SO_{2(g)}}$ \\[5pt]
+                    +
+                \end{enumerate}
+                \rule{6cm}{0.05mm} \\[5pt]
+                $C_{grafito} + 2S{\text{\textit{rómbico}}} \rightarrow CS_{2(l)}$
+                \end{center}
+            \end{minipage}
+            \begin{enumerate}
+                \item $\Delta {H^o}_{rxn} = -393,5 kJ$ 
+                \item $\Delta {H^o}_{rxn} = -296,1 kJ \times 2$
+                \item $\Delta {H^o}_{rxn} = -1072kJ \times (-1)$
+                \item Respuesta: $\Delta {H^o}_{rxn} = -393,5 + 2 \times (-296,1)+ 1072 = \textcolor{red}{86,3 kJ}$
+            \end{enumerate}
+        \end{enumerate}
+        \saltoPag{}
+
+    \subsection{Entropía ($S$) y energía libre de Gibbs}
+        \midTitle{red}{Procesos espontáneos}
+        \sangria{} Los procesos que ocurren en forma espontánea en una dirección no pueden ocurrir en las mismas condiciones en dirección puesta. \\
+        Para predecir la espontaneidad de un proceso se necesita conocer dos aspectos del sistema: $\Delta H$ y $S$.
+        \imagen{7cm}{./imagenes/procesosEspontaneos.png}
+        \midTitle{red}{\textbf{¿Una disminución en la entalpía significa que}} \vspace{-15pt}
+        \midTitle{red}{\textbf{ una reacción sucede espontáneamente?}}
+        \underline{Reacciones espontáneas} \\
+        \imagen{7cm}{./imagenes/reaccionesEspontaneas.png}
+        \sangria{} Es una medida del desorden o caos molecular del sistema que puede medirse y tabularse.
+        \ecuacion{\Delta S = S_{final} - S_{inicial}}
+        \sangria{} Existen tablas de $S^o$ (entropía molar estándar) de diferentes sustancias. \\
+        \sangria{} La entropía es una función de estado.
+        \ecuacion{S_{\text{\textit{Sólido}}} < S_{\text{\textit{Líquido}}} < S_{\text{\textit{gas}}}}
+        \imagen{7cm}{./imagenes/procesosQueConducenAUnAumentoEntropia.png}
+
+    \subsection{Segunda ley de la termodinámica}
+        \sangria{} ''La entropía del universo aumenta en un proceso espontáneo y se mantiene constante en un proceso en equilibrio''.
+        \begin{center} 
+            \begin{tabular}{| m{3.1cm} | m{4.5cm} |}
                 \hline
-                $\Delta H = \Delta E + P \Delta V $
+                Procesos espontáneos & $\Delta S_{universo} = \Delta S_{sistema} + \Delta S_{entorno} > 0$ \\
+                \hline
+                Procesos en equilibrio & $\Delta S_{universo} = \Delta S_{sistema} + \Delta S_{entorno} = 0$ \\
+                \hline
             \end{tabular}
         \end{center}
-        Para sistemas gaseosos:
-        \begin{center} \begin{tabular}{| c |} \hline $\Delta H = \Delta E + R \cdot T \cdot \Delta n$ \end{tabular} \end{center}
+        \sangria{} A veces el sistema pierde entropía (se ordena) espontáneamente. En dichos casos, el entorno se desordena.
+        \midTitle{blue}{Cambios de entropía en el sistema}
+        \ecuacion{aA + bB + \dotsb \rightarrow cD + dD + \dotsb}
+        \ecuacion{\Delta {S^o}_{r} = [c\Delta {S^o}(C) + d\Delta S^o (D)] - [a\Delta S^o (A) + b\Delta S^o(B)]}
+        \ecuacion{\Delta {S^o}_{r} = \sum n \Delta {S^o}_{prod} - \sum n \Delta {S^o}_{reac}}
+        \subsubsection{Cambio de entropía en el sistema ($\Delta S_{sis}$)}
+        \sangria{} Entropía estándar de reacción ($\Delta {S^o}_{rxn}$) es el cambio de entropía para una reacción realizada en $1atm$ y a $25^oC$.
+        \ecuacion{aA + bB \rightarrow cC + dD}
+        \begin{center}
+            $\Delta {S^o}_{rxn} = [cS^o(C) + dS^o(D)] - [aS^o(A) + bS^o(B)]$ \\[5pt]
+            $\Delta {S^o}_{rxn} = \sum n S^o(productos) - \sum m S^o(reactivos)$
+        \end{center}
+        \textbf{\underline{Ejemplo:}} ¿Cuál es el cambio de entropía estándar para la siguiente reacción a $25^oC$? 
+        \ecuacion{2CO_{(g)} + O_{2(g)} \rightarrow 2CO_{2(g)}}
+        \imagen{7cm}{./imagenes/ejemploCambioEntropiaSistema.png}
+        
+        \midTitle{blue}{Reglas generales}
+        \ecuacion{CaCO_{3(s)} \rightarrow CaO_{(s)} + CO_{2(g)}}
+        \begin{itemize}
+            \item Si una reacción produce más moléculas gaseosas que las que consume, entonces $\Delta S^o > 0$.
+                \ecuacion{N_{2(g)} + 3H_{2(g) \rightarrow 2NH_{3(g)}}}
+            \item Si el número total de moléculas gaseosas disminuye, entonces $\Delta S^o < 0$.
+                \ecuacion{H_{2(g)} + Cl_{2(g)} \rightarrow 2HCl_{(g)}}
+            \item Si no hay ningún cambio neto del número total de moléculas gaseosas, entonces $\Delta S^o$ puede ser positivo o negativo, y tendrá un valor pequeño.
+            \item Para sistemas donde solo hay líquidos y sólidos, la entropía aumenta con el número total de moléculas o iones.
+        \end{itemize}
+        \saltoPag{}
+    \subsection{Tercera ley de la termodinámica}
+        \sangria{} La entropía de una sustancia cristalina perfecta es de cero en el cero absoluto de temperatura ($0 K$). Los movimientos moleculares son mínimos, el número de micro-estados es 1 (solo hay $1$ forma de distribuir los átomos o moléculas para formar un cristal perfecto).
+        \subsubsection{Cambio de entropía en el entorno $\Delta S_{(Entorno)}$}
+            \imagen{7cm}{./imagenes/cambioEntropiaEntorno.png}
+            \ecuacion{\Delta S_{Entorno} = \frac{-\Delta H_{Sistema}}{T_{Entorno}}}
+            \ecuacion{\Delta S_{Univ} = \Delta S_{Sistema} + \Delta S_{Entorno}}
+        \subsection{Energía libre de Gibbs}
+            \ecuacion{\Delta S_{Univ} = \Delta S_{Sistema} + \Delta S_{Entorno} > 0}
+            \ecuacion{\Delta S_{Univ} = \Delta S_{Sistema} - \frac{\Delta H_{Sistema}}{T} > 0}
+            \ecuacion{-T\Delta S_{Univ} = \Delta H_{Sistema} - T\Delta S_{Sistema} < 0}
+            \begin{center}
+            \begin{tabular} {|m{5cm}|}
+                \hline
+                $\Delta G = \Delta H_{Sis} - T \Delta S_{sis}$ \\
+                \hline
+            \end{tabular}
+            \end{center}
+            \textbf{Valores de la energía libre de Gibbs:}
+            \begin{itemize}
+                \item $\Delta G < 0$: La reacción es espontánea.
+                \item $\Delta G > 0$: La reacción no es espontánea, es inducida. 
+                \item $\Delta G = 0$: La reacción está en equilibrio.
+            \end{itemize}
+            \subsubsection{Energía libre estándar de reacción ($\Delta {G^o}_{rxn}$)}
+            \sangria{} La energía libre estándar de reacción ($\Delta {G^o}_{rxn}$) es el cambio de energía libre para una reacción cuando esto ocurre en condiciones estándar.
+            \ecuacion{aA + bB \rightarrow cC + dD}
+            \ecuacion{\Delta {G^o}_{rxn} = [c\Delta{G^o}_{f} (C) + d\Delta {G^o}_{f} (D)] - [a \Delta {G^o}_{f}(A) + b\Delta {G^o}_{f}(B)]}
+            \ecuacion{\Delta {G^o}_{rxn} = \sum n \Delta {G^o}_{f}(productos) - \sum m \Delta {G^o}_{f}(reactivos)}
+            \subsubsection{Energía libre estándar de formación ($\Delta G^o$)}
+            \sangria{} La energía libre estándar de formación ($\Delta G^o$) es el cambio de energía libre que ocurre cuando $1mol$ del compuesto se forma a partir de sus elementos en estado estándar.
+            La $\Delta G^o$ de cualquier elemento solo en su forma estable es cero.
+    \subsection{Espontaneidad de las reacciones químicas}
+        \ecuacion{\Delta G = \Delta H - T\Delta S}
+        \sangria{} Según sean positivos o negativos los valores de $\Delta H$ y $\Delta S$ ($T$ siempre es positiva) se cumple que:
+        \imagen{7cm}{./imagenes/espontaneidadReaccionesQuimicas.png}
+        \rule{8cm}{0.05mm}
+        \textbf{\underline{Ejemplo:}}
+        \imagen{7cm}{./imagenes/ejemploEspontaneidadReaccionesQuimicas.png}
