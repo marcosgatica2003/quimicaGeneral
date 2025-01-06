@@ -1,0 +1,141 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}UNIDAD 1}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Conceptos básicos}{1}{}%
+\contentsline {subsection}{\numberline {1.2}La materia (estados y propiedades)}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Mundo microscópico}{1}{}%
+\contentsline {subsection}{\numberline {1.4}Macro-mundo}{2}{}%
+\contentsline {subsection}{\numberline {1.5}Formación de compuestos}{2}{}%
+\contentsline {subsection}{\numberline {1.6}Leyes y teorías}{3}{}%
+\contentsline {section}{\numberline {2}UNIDAD 2}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Experimentos y teorías}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Efecto fotoeléctrico}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Espectros atómicos}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Teoría y modelo de Bohr}{6}{}%
+\contentsline {subsection}{\numberline {2.5}Naturaleza dual del electrón}{7}{}%
+\contentsline {subsection}{\numberline {2.6}Principio de incertidumbre}{7}{}%
+\contentsline {subsection}{\numberline {2.7}Ecuación de onda de Schrödinger}{7}{}%
+\contentsline {subsection}{\numberline {2.8}Los números cuánticos}{7}{}%
+\contentsline {subsection}{\numberline {2.9}Electrones en un diagrama de energía}{8}{}%
+\contentsline {subsection}{\numberline {2.10}La Tabla periódica}{9}{}%
+\contentsline {subsection}{\numberline {2.11}Radio atómico}{10}{}%
+\contentsline {subsection}{\numberline {2.12}Radio iónico}{11}{}%
+\contentsline {section}{\numberline {3}UNIDAD 3}{13}{}%
+\contentsline {subsection}{\numberline {3.1}Postulados de la teoría de Lewis}{13}{}%
+\contentsline {subsection}{\numberline {3.2}Enlace iónico}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Enlace covalente}{14}{}%
+\contentsline {subsection}{\numberline {3.4}Electro-negatividad}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Teoría de repulsión de los pares electrónicos de la capa de valencia}{15}{}%
+\contentsline {subsection}{\numberline {3.6}Repulsión de pares de electrones}{16}{}%
+\contentsline {subsection}{\numberline {3.7}Momentos dipolares y moléculas polares}{16}{}%
+\contentsline {subsection}{\numberline {3.8}Comportamiento de moléculas polares}{16}{}%
+\contentsline {subsection}{\numberline {3.9}Enlaces sigma ($\sigma $) y Pi ($\pi $)}{17}{}%
+\contentsline {subsubsection}{\numberline {3.9.1}Enlaces múltiples}{17}{}%
+\contentsline {subsection}{\numberline {3.10}Teoría de los orbitales moleculares}{17}{}%
+\contentsline {subsection}{\numberline {3.11}Configuraciones de orbitales moleculares}{18}{}%
+\contentsline {subsection}{\numberline {3.12}Enlace metálico}{18}{}%
+\contentsline {subsubsection}{\numberline {3.12.1}Propiedades}{18}{}%
+\contentsline {subsection}{\numberline {3.13}Atracciones moleculares}{18}{}%
+\contentsline {subsubsection}{\numberline {3.13.1}Fuerza dipolo-dipolo}{19}{}%
+\contentsline {subsubsection}{\numberline {3.13.2}Fuerzas de dispersión}{19}{}%
+\contentsline {subsubsection}{\numberline {3.13.3}Puente de Hidrógeno}{19}{}%
+\contentsline {subsubsection}{\numberline {3.13.4}Interacción Ión-dipolo}{20}{}%
+\contentsline {section}{\numberline {4}UNIDAD 4}{21}{}%
+\contentsline {subsection}{\numberline {4.1}Líquidos}{21}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Viscosidad}{21}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Tensión superficial}{21}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}Evaporación y presión de vapor}{22}{}%
+\contentsline {subsection}{\numberline {4.2}Gases}{22}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Características físicas de los gases}{23}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Presión atmosférica}{23}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Leyes de los gases ideales}{23}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Masa molar y densidad de los gases}{24}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}Ley de Dalton para las presiones parciales}{24}{}%
+\contentsline {subsubsection}{\numberline {4.2.6}Teoría cinética molecular}{24}{}%
+\contentsline {subsubsection}{\numberline {4.2.7}Difusión y efusión}{25}{}%
+\contentsline {subsubsection}{\numberline {4.2.8}Gases reales: desviaciones del comportamiento real}{26}{}%
+\contentsline {subsection}{\numberline {4.3}Sólidos}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Características de los sólidos}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Redes y celda unidad}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Tipos de sólidos}{28}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}Tipos de cristales}{28}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}Teoría de bandas de conducción}{28}{}%
+\contentsline {section}{\numberline {5}UNIDAD 5}{30}{}%
+\contentsline {subsection}{\numberline {5.1}Conceptos}{30}{}%
+\contentsline {subsection}{\numberline {5.2}Termodinámica}{30}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Primera ley de la termodinámica}{30}{}%
+\contentsline {subsection}{\numberline {5.3}Ecuaciones termoquímicas}{31}{}%
+\contentsline {subsection}{\numberline {5.4}Entalpia estándar de formación}{31}{}%
+\contentsline {subsection}{\numberline {5.5}Entalpia estándar de reacción}{32}{}%
+\contentsline {subsubsection}{\numberline {5.5.1}Método directo}{32}{}%
+\contentsline {subsubsection}{\numberline {5.5.2}Método indirecto - Ley de Hess}{32}{}%
+\contentsline {subsection}{\numberline {5.6}Función de estado}{32}{}%
+\contentsline {subsection}{\numberline {5.7}Entropía ($S$) y energía libre de Gibbs}{33}{}%
+\contentsline {subsection}{\numberline {5.8}Segunda ley de la termodinámica}{33}{}%
+\contentsline {subsubsection}{\numberline {5.8.1}Cambio de entropía en el sistema ($\Delta S_{sis}$)}{33}{}%
+\contentsline {subsection}{\numberline {5.9}Tercera ley de la termodinámica}{34}{}%
+\contentsline {subsubsection}{\numberline {5.9.1}Cambio de entropía en el entorno $\Delta S_{(Entorno)}$}{34}{}%
+\contentsline {subsection}{\numberline {5.10}Energía libre de Gibbs}{34}{}%
+\contentsline {subsubsection}{\numberline {5.10.1}Energía libre estándar de reacción ($\Delta {G^o}_{rxn}$)}{34}{}%
+\contentsline {subsubsection}{\numberline {5.10.2}Energía libre estándar de formación ($\Delta G^o$)}{34}{}%
+\contentsline {subsection}{\numberline {5.11}Espontaneidad de las reacciones químicas}{34}{}%
+\contentsline {section}{\numberline {6}UNIDAD 6}{35}{}%
+\contentsline {subsection}{\numberline {6.1}Proceso de disolución}{35}{}%
+\contentsline {subsection}{\numberline {6.2}Solución saturada y solubilidad}{36}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Factores que afectan la solubilidad}{36}{}%
+\contentsline {subsection}{\numberline {6.3}Unidades de concentración}{36}{}%
+\contentsline {subsection}{\numberline {6.4}Dilución}{37}{}%
+\contentsline {subsection}{\numberline {6.5}Propiedades coligativas}{37}{}%
+\contentsline {subsubsection}{\numberline {6.5.1}I - Disminución de la presión de vapor}{37}{}%
+\contentsline {subsubsection}{\numberline {6.5.2}II - Elevación del punto de ebullición (soluto no volátil)}{38}{}%
+\contentsline {subsubsection}{\numberline {6.5.3}III - Disminución del punto de congelación}{38}{}%
+\contentsline {subsection}{\numberline {6.6}Presión osmótica ($\pi $)}{39}{}%
+\contentsline {subsubsection}{\numberline {6.6.1}Tipos de disoluciones}{39}{}%
+\contentsline {subsection}{\numberline {6.7}Coloides}{39}{}%
+\contentsline {subsubsection}{\numberline {6.7.1}Tipos de coloides}{39}{}%
+\contentsline {subsubsection}{\numberline {6.7.2}Efecto Tyndall}{40}{}%
+\contentsline {section}{\numberline {7}UNIDAD 7}{41}{}%
+\contentsline {subsection}{\numberline {7.1}Cinética química}{41}{}%
+\contentsline {subsection}{\numberline {7.2}Velocidad de reacción}{41}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}Estequiometría}{42}{}%
+\contentsline {subsubsection}{\numberline {7.2.2}Ley de la velocidad}{42}{}%
+\contentsline {subsubsection}{\numberline {7.2.3}Determinación experimental de la ecuación de velocidad}{43}{}%
+\contentsline {subsection}{\numberline {7.3}Teoría de las colisiones - Energía de activación ($E_A$)}{43}{}%
+\contentsline {subsection}{\numberline {7.4}Ecuación de Arrhenius - Dependencia de la constante de velocidad con la temperatura}{43}{}%
+\contentsline {subsection}{\numberline {7.5}Catalizadores}{44}{}%
+\contentsline {subsubsection}{\numberline {7.5.1}Catálisis heterogénea}{44}{}%
+\contentsline {subsubsection}{\numberline {7.5.2}Catálisis homogénea}{44}{}%
+\contentsline {subsubsection}{\numberline {7.5.3}Convertidores catalíticos}{45}{}%
+\contentsline {section}{\numberline {8}UNIDAD 8}{46}{}%
+\contentsline {subsection}{\numberline {8.1}Equilibrio químico}{46}{}%
+\contentsline {subsection}{\numberline {8.2}Equilibrio homogéneo}{46}{}%
+\contentsline {subsection}{\numberline {8.3}Equilibrio heterogéneo}{46}{}%
+\contentsline {subsection}{\numberline {8.4}Equilibrios múltiples}{47}{}%
+\contentsline {subsection}{\numberline {8.5}Expresiones de constante de equilibrio}{47}{}%
+\contentsline {subsection}{\numberline {8.6}Cociente de reacción ($Q$)}{47}{}%
+\contentsline {subsection}{\numberline {8.7}Cálculo de concentraciones de equilibrio}{47}{}%
+\contentsline {subsection}{\numberline {8.8}Principio de Le Chatelier}{48}{}%
+\contentsline {subsubsection}{\numberline {8.8.1}Cambio en la concentración}{48}{}%
+\contentsline {subsubsection}{\numberline {8.8.2}Cambio en la presión (o volumen)}{48}{}%
+\contentsline {subsubsection}{\numberline {8.8.3}Cambio en la temperatura}{48}{}%
+\contentsline {subsubsection}{\numberline {8.8.4}Agregado de un gas inerte}{49}{}%
+\contentsline {subsubsection}{\numberline {8.8.5}Agregado de un catalizador}{49}{}%
+\contentsline {subsection}{\numberline {8.9}Ácidos y bases}{49}{}%
+\contentsline {subsubsection}{\numberline {8.9.1}Propiedades ácido-base del agua}{49}{}%
+\contentsline {subsubsection}{\numberline {8.9.2}El $pH$: medida de la acidez}{49}{}%
+\contentsline {subsection}{\numberline {8.10}Electrolitos fuertes y débiles}{50}{}%
+\contentsline {subsection}{\numberline {8.11}Equilibrio de solubilidad}{50}{}%
+\contentsline {subsubsection}{\numberline {8.11.1}Producto de solubilidad ($K_{ps}$)}{50}{}%
+\contentsline {section}{\numberline {9}UNIDAD 9}{52}{}%
+\contentsline {subsection}{\numberline {9.1}Electroquímica}{52}{}%
+\contentsline {subsection}{\numberline {9.2}Número de oxidación}{52}{}%
+\contentsline {subsubsection}{\numberline {9.2.1}Tipos de reacciones de oxidación-reducción}{52}{}%
+\contentsline {subsubsection}{\numberline {9.2.2}Reglas de disociación}{52}{}%
+\contentsline {subsection}{\numberline {9.3}Balances redox en medio ácido}{53}{}%
+\contentsline {subsection}{\numberline {9.4}Celdas galvánicas}{53}{}%
+\contentsline {subsubsection}{\numberline {9.4.1}Celdas electroquímicas, galvánicas o voltaicas}{53}{}%
+\contentsline {subsubsection}{\numberline {9.4.2}Potenciales estándar de reducción}{54}{}%
+\contentsline {subsubsection}{\numberline {9.4.3}Espontaneidad de reacciones redox}{55}{}%
+\contentsline {subsubsection}{\numberline {9.4.4}Baterías}{56}{}%
+\contentsline {subsubsection}{\numberline {9.4.5}Electrólisis}{56}{}%
+\contentsline {subsubsection}{\numberline {9.4.6}Electrólisis y cantidad de masa}{57}{}%
+\contentsline {subsection}{\numberline {9.5}Corrosión}{57}{}%
