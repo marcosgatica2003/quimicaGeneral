@@ -1,1 +1,1 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
+apuntes/Quimica_11va_Edicion_Raymond_Chang_FREEL.pdf filter=lfs diff=lfs merge=lfs -text
