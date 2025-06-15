@@ -1,0 +1,202 @@
+Indice
+
+Sistemas Materiales
+a. Propiedades Intensivas.
+b. Propiedades Extensivas.
+c. Fase.
+d. Sistema Material.
+e. Modos de Agregacion de Materia: Fusion, Vaporizacion, Sublimacion, Solidificacion, Condensiacion y Volatilizacion.
+f. Punto de Ebullicion.
+g. Punto de Congelacion.
+h. Separacion de Fases: Imantacion, Decantacion, Filtracion, Tamizacion, Flotacion, Evaporizacion, Destilacion y Cristalizacion.
+i. Alotropos.
+j. Soluciones.
+k. Mezcla Azeotropica.
+l. Sustancia.
+m. Descomposicion.
+n. Combinacion.
+ñ. Sustancias Compuestas.
+o. Sustancias Simple.
+p. Sustancias Puras.
+q. Coloide. 
+
+Transformaciones Fisicas y Quimicas
+a. Transformaciones Fisicas.
+b. Transformaciones Quimicas.
+c. Ley de Lavoiser (conservacion de masa).
+d. Ley de Proust (propiedades definidas).
+
+Estructura Atomica
+a. Atomo.
+b. Numero Atomico (Z).
+c. Numero Masico (A).
+d. Unidad de Masa Atomica (UMA).
+e. Mol.
+f. Isotopos.
+f. Isobaros.
+h. Molecula.
+i. Ley de Broglie.
+j. Masa Atomica Promedio.
+k. Masa Atomica Relativa (o masa atomica).
+l. Masa Atomica Absoluta.
+m. Masa Molar.
+ñ. Masa Molecular.
+o. Ley de Avogadro.
+p. Ion.
+q. Orbital.
+r. Numeros Cuanticos.
+s. Principio de Pauli.
+t. Configuracion Electronica.
+u. Configuracion Electronica Externa (CEE).
+v. Regla de Hund.
+w. Principio de Insertidumbre de Heisenberg.
+x. Electron Paramagnetico.
+y. Electron Diamagnetico.
+z. Isoelectronico e isoelectronicidad. 
+
+Formula Minima y Molecular
+a. Formula Minima.
+b. Formula Molecular.
+
+Propiedades Periodicas
+a. Grupos.
+b. Periodos.
+c. Electronegatividad.
+d. Potencial de Ionizacion.
+e. Afinidad Electronica.
+f. Radio Atomico.
+g. Radio Ionico.
+h. Numero de Oxidacion.
+
+Uniones Quimicas
+a. Regla del Octeto.
+b. Representacion de Lewis.
+c. Union Ionica.
+d. Union Covalente: Comun y Dativa.
+e. Union Metalica.
+f. Union por Puente de Hidrogeno.
+g. Dipolo Electrico.
+h. Fuerza Molecular Dipolo-Dipolo.
+i. Dipolo Inducido.
+
+Gases
+a. Gases.
+b. Presion de Gases.
+c. Temperatura Critica.
+d. Ley de Boyle.
+e. Ley de Boyle - Manoutte.
+f. Ley de Charley - Lussac.
+g. Ley de Avogadro.
+h. Ley de Graham.
+i. Volumen Molar Normal.
+j. Ley de Presiones Parciales de Dalton.
+
+
+Estequiometria
+a. Ley de Conservacion de Masas.
+b. Rendimiento de Reaccion.
+c. Reactivo Limitante.
+d. Reactivo en Exceso.
+
+
+Soluciones
+a. Solucion Saturada.
+b. Solucion No Saturada.
+c. Solucion Sobresaturada.
+d. Solucion Concentrada.
+e. Solucion Diluida.
+f. Solutos no Volatiles.
+g. Solubilidad.
+h. Formas de Expresar la concentracion.
+i. Equivalente gramo de un acido.
+j. Equivalente gramo de una base.
+k. Neutralizacion.
+
+Propiedades Coligativas
+a. Propiedades Coligativas.
+b. Electrolito.
+c. No Electrolito.
+d. Caracteristicas de los Electrolitos de acuerdo a su disolucion.
+e. Clasificacion de los Electrolitos.
+f. Tipos de Aniones.
+g. Factor de Van't Hoff.
+h. Osmosis.
+i. Osmosis Inversa.
+j. Membrana Semipermeable.
+k. Soluciones Ideales. 
+
+
+Termoquimica
+a. Concepto de Termoquimica.
+b. Primera ley de la Termodinamica.
+c. Ley de Lavoiser - Laplace.
+d. Ley de Hess.
+e. Sistema Abierto.
+f. Sistema Cerrado.
+g. Sistema Aislado.
+h. Funcion de Estado.
+i. Entalpia.
+j. Entalpia de Formacion.
+k. Entalpia de Combustion.
+l. Reaccion Exotermica.
+m. Reaccion Endotermica.
+n. Calor Especifico.
+ñ. Poder Calorifico.
+
+Cinetica Quimica
+a. Concepto de Cinetica.
+b. Velocidad de Reaccion.
+c. Factores que afectan a la velocidad de Reaccion.
+d. Energia de Activacion.
+
+Equilibrio Quimico
+a. Concepto de Equilibrio Quimico.
+b. Reacciones Reversibles.
+c. Reacciones Irreversibles.
+d. Ley de Accion de Masas.
+e. Constante de Equilibrio Kc.
+f. Grado de Disociacion.
+h. Principio de Le Chatelier.
+i. Modificacion del Equilibrio.
+
+pH y pOH
+a. pH.
+b. pOH.
+c. Oxidos.
+d. Hidroxidos.
+e. Hidrolisis.
+f. Acido Fuerte.
+g. Acido Debil.
+h. Base Fuerte.
+i. Base Debil.
+j. Constate de Disociacion Acida (Ka).
+
+Metodo del Ion Electron
+a. Oxidacion.
+b. Reduccion.
+
+Electrolisis
+a. Concepto de Electrolisis.
+b. Catodo.
+c. Anodo.
+d. Primera Ley de Faraday.
+e. Segunda Ley de Faraday.
+f. Equivalente Quimico.
+g. Equivalente Electroquimico.
+h. Corrosion Metalica.
+
+Pilas
+a. Concepto de Pilas.
+b. Espontaneidad.
+c. No Espontaneidad.
+d. Potenciales de Reduccion.
+e. Electrodo Estandard de Hidrogeno.
+
+Aguas
+a. Propiedades Fisicas.
+b. Clasificacion de Aguas.
+c. Impureza en Aguas.
+d. Dureza de las Aguas.
+e. Rango de Durezas.
+f. Ablandamiento de las Aguas.
+g. Lluvias Acidas.
